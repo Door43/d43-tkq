@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkq:home|Door43 (tkq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkq|d43-tkq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkq/archive/master.zip|d43-tkq.zip]]
+
+**Recent Changes**
+{{changes>ns = tkq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkq|Ethnologue data]]
+
